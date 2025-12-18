@@ -22,7 +22,7 @@ interface SidebarProps {
 export function Sidebar({ collapsed }: SidebarProps) {
   const navigation = [
     { name: 'Home', href: '/', icon: HomeIcon, disabled: true },
-    { name: 'Zo Houses', href: '/houses', icon: BuildingOfficeIcon, disabled: true },
+    { name: 'Nimbus Houses', href: '/houses', icon: BuildingOfficeIcon, disabled: true },
     { name: 'Availability View', href: '/availability', icon: CalendarDaysIcon, disabled: true },
     { name: 'Visitors', href: '/visitors', icon: UsersIcon, disabled: true },
     { name: 'Bookings', href: '/bookings', icon: BookOpenIcon, disabled: true },

@@ -273,7 +273,7 @@ export const properties: Property[] = [
   {
     id: 'p3',
     vendorId: 'v2',
-    name: 'Zostel Kasol',
+    name: 'AtlasHostel Kasol',
     city: 'Kasol',
     country: 'India',
     category: ['Hostel (mixed/female/male dorms, private rooms)', 'Backpacker'],
@@ -763,7 +763,7 @@ export const roomTypes: RoomType[] = [
     special: { privateJacuzzi: false, sharedJacuzzi: false, fireplace: true, mosquitoNet: false, blackoutCurtains: false },
     images: []
   },
-  // Property 3 - Zostel Kasol
+  // Property 3 - AtlasHostel Kasol
   {
     id: 'rt4',
     propertyId: 'p3',
