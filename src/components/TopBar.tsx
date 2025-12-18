@@ -11,7 +11,7 @@ export function TopBar() {
       <div className="bg-gray-800 border-b border-gray-700 px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-4">
-            <h1 className="text-xl font-semibold text-white">Zo VMS</h1>
+            <h1 className="text-xl font-semibold text-white">Nimbus VMS</h1>
             <span className="text-sm text-gray-400">Stay-First Admin</span>
           </div>
           
